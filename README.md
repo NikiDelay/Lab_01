@@ -16,9 +16,8 @@
 
 ## Инструкции по запуску
 1. Убедитесь, что установлен **Python 3.10** или выше.
-2. Откройте файл `Languages_for_AI_Lection_01_Python_Intro_Lab01.ipynb` в Jupyter Notebook:
-   ```bash
-   jupyter notebook Languages_for_AI_Lection_01_Python_Intro_Lab01.ipynb
+2. Откройте файл `Languages_for_AI_Lection_01_Python_Intro_Lab01.ipynb` в Jupyter Notebook.
+
 ## Фйал содержит 16 заданий, организованных по принципу «функция + тесты»:
 | № | Название задачи | Баллы | Ключевые концепции |
 | :--- | :--- | :--- | :--- |
