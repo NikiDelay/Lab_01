@@ -19,7 +19,7 @@
 2. Откройте файл `Languages_for_AI_Lection_01_Python_Intro_Lab01.ipynb` в Jupyter Notebook:
    ```bash
    jupyter notebook Languages_for_AI_Lection_01_Python_Intro_Lab01.ipynb
-   
+## Фйал содержит 16 заданий, организованных по принципу «функция + тесты»:
 | № | Название задачи | Баллы | Ключевые концепции |
 | :--- | :--- | :--- | :--- |
 | 1 | Високосный год | 0.5 | Условные операторы, логика |
